@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// 링크드 리스트를 이용한 큐 +a
+
 class Shape  // Line - Circle - Rect - Line 123
 {
 	Shape* next;
